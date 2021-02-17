@@ -1,0 +1,5 @@
+data_set	RNA-Seq	ATAC-Seq
+name	BASIC
+root	/
+port	8050
+our_group	CDCP
