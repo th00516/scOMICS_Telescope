@@ -1,0 +1,4 @@
+0.CASE
+.gitattributes
+*.DS_Store
+*.pyc
